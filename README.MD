@@ -8,7 +8,7 @@
 ### Usage
 
 ##### Run the program with the following command structure:
-    freqfilter \<imagefile1\> \<imagefile2\>
+    freqfilter <imagefile1> <imagefile2>
 
 ##### imageFile1 is the image you wish you filter. imageFile2 is the filename you wish to save the filtered image.
 ##### When shown the fourier transform of the image, use the left mouse button to create a notch/band-reject filter
